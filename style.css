@@ -68,6 +68,15 @@
     transform: translateY(-50%);
     text-align: center;
     color: #fff;
-    
 
+ .content h1{
+    font-size: 50px;
+    margin-top: 80px;
+ }
+
+    .content p{
+        font-weight: 100;
+        margin: 20px auto;
+        line-height: 25px;
+    }
 }
