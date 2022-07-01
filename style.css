@@ -79,4 +79,7 @@
         margin: 20px auto;
         line-height: 25px;
     }
+    .content button{
+        text-align: center;
+    }
 }
