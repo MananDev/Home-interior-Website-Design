@@ -79,7 +79,7 @@
         margin: 20px auto;
         line-height: 25px;
     }
-    button{
+    .button{
         width: 200px;
         padding: 15px 0;
         text-align: center;
@@ -87,6 +87,8 @@
         border-radius: 25px;
         font-weight: bold;
         border: 2px solid #a1be22;
+        cursor: pointer;
+        color: #fff;
     }
     
 }
